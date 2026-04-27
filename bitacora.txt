@@ -2,3 +2,7 @@ Primer repositorio del curso.
 Trabajo usando Git por SSH.
 Este archivo se usará para practicar cambios y commits.
 Y le agrego algo más porque si la verdad, que tal se encuentra en este momento el que está leyendo esto.
+
+
+
+Después de hacer el pull, todo funciona bien y está sincronizado. JIJI
